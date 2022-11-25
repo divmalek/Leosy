@@ -265,13 +265,13 @@ position: absolute;
 
 
   .contact {
-    padding-top: var(--section-padding);
-    padding-bottom: var(--section-padding);
-    background-color: var(--section-background);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: white;
   }
   .contact .info {
-    padding-top: var(--section-padding);
-    padding-bottom: var(--section-padding);
+    padding-top: 60px;
+    padding-bottom: 60px;
     text-align: center;
   }
   .contact .info .label {
