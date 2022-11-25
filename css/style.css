@@ -2,6 +2,8 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     
     
 }
@@ -109,8 +111,7 @@ top:-20px;
     background-image: url(../img/landing.jpg);
     background-size: cover; 
     height: calc(100vh - 90px);
-    margin: 0;
-    padding: 0;
+    
     
   
 }
@@ -147,9 +148,11 @@ line-height: 1.8;
 .Features .feat{
     padding: 20px;
     text-align: center;
+     
  }
  .Features .feat i{
-    color:#10cab7
+    color:#10cab7;
+    margin-bottom: 15px;
     
  }
  .Features .feat h3{
@@ -159,6 +162,7 @@ line-height: 1.8;
  .Features .feat p{ 
     color:gray ;
     font-size: 19px;
+     margin-top: 15px;
 
  }
  .special-h{
