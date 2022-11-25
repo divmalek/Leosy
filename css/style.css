@@ -2,8 +2,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    
     
 }
 body{
@@ -110,6 +109,8 @@ top:-20px;
     background-image: url(../img/landing.jpg);
     background-size: cover; 
     height: calc(100vh - 90px);
+    margin: 0;
+    padding: 0;
     
   
 }
@@ -149,11 +150,11 @@ line-height: 1.8;
  }
  .Features .feat i{
     color:#10cab7
-    margin-top: 15px
+    
  }
  .Features .feat h3{
     font-weight: 800;
-     margin-top: 10px
+     
  }
  .Features .feat p{ 
     color:gray ;
