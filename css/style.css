@@ -2,6 +2,8 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     
 }
 body{
@@ -108,8 +110,7 @@ top:-20px;
     background-image: url(../img/landing.jpg);
     background-size: cover; 
     height: calc(100vh - 90px);
-    margin: 0;
-    padding: 0;
+    
   
 }
 .intro-text {
@@ -236,10 +237,11 @@ position: absolute;
 .porto .container .card{
     background-color: #F6F6F6;
     margin-top: 100px;
-     border-radius: 250px
+     border-radius: 25px
 }
 .porto .container .card img{
     max-width: 100%;
+    border-radius: 25px
 }
 .porto .container .card .info{
     padding: 15px 30px;
