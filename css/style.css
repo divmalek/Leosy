@@ -266,12 +266,12 @@ position: absolute;
 
   .contact {
     padding-top: 60px;
-    padding-bottom: 60px;
+    
     background-color: white;
   }
   .contact .info {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     text-align: center;
   }
   .contact .info .label {
